@@ -1,0 +1,17 @@
+Machine learning is a subset of artificial intelligence.
+It enables computers to learn from data without being explicitly programmed.
+Deep learning uses neural networks with many layers.
+Convolutional neural networks are effective for image recognition.
+Recurrent neural networks work well for sequential data.
+
+Natural language processing helps machines understand text.
+Sentiment analysis determines the emotional tone of text.
+Text summarization creates concise summaries of documents.
+Named entity recognition identifies people, places, and organizations.
+Machine translation automates the conversion of text between languages.
+
+Computer vision allows machines to interpret images.
+Object detection identifies objects within photos.
+Face recognition identifies human faces with high accuracy.
+Image segmentation partitions images into meaningful regions.
+Style transfer applies artistic styles to photographs.
