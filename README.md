@@ -5,7 +5,7 @@ A Go implementation of the TextTiling algorithm for automatic text segmentation.
 ## Installation
 
 ```bash
-go install github.com/texttiling/texttiling/cmd/textiling@latest
+go install github.com/davicbtoliveira/texttiling/cmd/textiling@latest
 ```
 
 ## Usage
